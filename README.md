@@ -229,3 +229,28 @@ y_news:新闻资讯信息表
 
 具体表结构及说明如下:
 
+![image](https://user-images.githubusercontent.com/64194267/111058673-f1cdf900-84ca-11eb-94c9-a287a1574c88.png)
+
+![image](https://user-images.githubusercontent.com/64194267/111058678-f4c8e980-84ca-11eb-91cf-a71737086c57.png)
+
+![image](https://user-images.githubusercontent.com/64194267/111058682-f7c3da00-84ca-11eb-976f-377a1abff543.png)
+
+![image](https://user-images.githubusercontent.com/64194267/111058684-fbeff780-84ca-11eb-8195-3e521494fbc0.png)
+
+![image](https://user-images.githubusercontent.com/64194267/111058687-feeae800-84ca-11eb-8699-134de5893d4d.png)
+
+### 使用的前端框架
+
+bootstrap v4,jquery v3
+
+### JSP页面的说明
+
+![image](https://user-images.githubusercontent.com/64194267/111058699-16c26c00-84cb-11eb-8411-7daaf6444174.png)
+
+![image](https://user-images.githubusercontent.com/64194267/111058701-1a55f300-84cb-11eb-8f7b-387867f2c0a2.png)
+
+## CSDN博客指路
+https://blog.csdn.net/weixin_43820665/article/details/114762951
+另外如果项目导入eclipse报错的话，可以参考一下@DistressRroke _chen的博客，
+之前导入老师的代码报错也用这个方法解决了，指路：
+https://blog.csdn.net/cms18374672699/article/details/83045754
