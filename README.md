@@ -64,5 +64,20 @@ y_mycart本来是想写购物车功能的，但是没时间写555.
 ![image](https://user-images.githubusercontent.com/64194267/111058440-a23afd80-84c9-11eb-89e2-21a8810d7db1.png)
 
 可以看看可爱的山兔的多种皮肤。
-![image](https://user-images.githubusercontent.com/64194267/111058432-994a2c00-84c9-11eb-9b47-539fe7ee7f21.png)
-
+![image](https://user-images.githubusercontent.com/64194267/111058462-bda60880-84c9-11eb-9e2e-597359fca537.png)
+![image](https://user-images.githubusercontent.com/64194267/111058466-c565ad00-84c9-11eb-8e5c-f27fa5506777.png)
+![image](https://user-images.githubusercontent.com/64194267/111058470-cac2f780-84c9-11eb-9a4f-8d2a96fbb6cd.png)
+山兔的传记！
+![image](https://user-images.githubusercontent.com/64194267/111058477-d3b3c900-84c9-11eb-9735-44fdac331f6e.png)
+山兔的情报。
+![image](https://user-images.githubusercontent.com/64194267/111058483-dca49a80-84c9-11eb-904b-d3624dda95aa.png)
+然后是商城。令人遗憾的是没做购物车的功能。
+![image](https://user-images.githubusercontent.com/64194267/111058486-e4643f00-84c9-11eb-9bee-6a24728bd833.png)
+然后是新闻资讯。
+![image](https://user-images.githubusercontent.com/64194267/111058491-eb8b4d00-84c9-11eb-91a1-ddfddd8c1de0.png)
+然后就是一条联名的资讯。
+![image](https://user-images.githubusercontent.com/64194267/111058499-f5ad4b80-84c9-11eb-9178-ec86b69880db.png)
+![image](https://user-images.githubusercontent.com/64194267/111058497-f2b25b00-84c9-11eb-8bfa-99b42c61c8d8.png)
+![image](https://user-images.githubusercontent.com/64194267/111058502-f9d96900-84c9-11eb-9bca-bb3b7fe69a7e.png)
+## 项目说明书
+### 详细功能说明
