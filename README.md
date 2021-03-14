@@ -48,5 +48,21 @@ y_mycart本来是想写购物车功能的，但是没时间写555.
 ![image](https://user-images.githubusercontent.com/64194267/111058383-41132a00-84c9-11eb-962b-e627db0afaf9.png)
 就会跳转到随机的式神页面上
 ![image](https://user-images.githubusercontent.com/64194267/111058386-4a03fb80-84c9-11eb-889e-457be684ed51.png)
+再抽一张
+![image](https://user-images.githubusercontent.com/64194267/111058405-73248c00-84c9-11eb-8a63-d38bb0050567.png)
+再抽一张
+![image](https://user-images.githubusercontent.com/64194267/111058408-7b7cc700-84c9-11eb-8a8c-04e81ce6dfcb.png)
+点击就可以跳转到详细的式神介绍页面。
+点击导航栏上的式神录就跳转到式神录的页面上。
+![image](https://user-images.githubusercontent.com/64194267/111058411-82a3d500-84c9-11eb-89bb-d5f901a9b9e9.png)
+总共十个式神，其中3个SSR，4个SR，3个R，稀有度的出率大大提升。
+点击一个不知火。
+![image](https://user-images.githubusercontent.com/64194267/111058414-89cae300-84c9-11eb-8882-3a49d256d1e6.png)
+点击一下觉醒或者皮肤按钮就有不同的立绘。
+![image](https://user-images.githubusercontent.com/64194267/111058424-92231e00-84c9-11eb-8255-60d8be0bcdd0.png)
+下面是不知火的传记或者情报啥的。
+![image](https://user-images.githubusercontent.com/64194267/111058440-a23afd80-84c9-11eb-89e2-21a8810d7db1.png)
 
+可以看看可爱的山兔的多种皮肤。
+![image](https://user-images.githubusercontent.com/64194267/111058432-994a2c00-84c9-11eb-9b47-539fe7ee7f21.png)
 
