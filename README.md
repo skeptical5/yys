@@ -1,4 +1,5 @@
 # WEB期末大作业 痒痒鼠游戏系统
+@[TOC](目录)
 ## 开发环境
 Eclipse jee 2019-12+Tomcat 9.0+MySQL
 
